@@ -1,0 +1,2 @@
+# priemro
+primer repo aprendiendo
